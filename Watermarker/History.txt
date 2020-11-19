@@ -1,0 +1,9 @@
+SLim Watermarker - History
+-----------------------------
+
+0.2.0.0
+- Added image watermark
+
+0.1.0.0
+- First public release
+

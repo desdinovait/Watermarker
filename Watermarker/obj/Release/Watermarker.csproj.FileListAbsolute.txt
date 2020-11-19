@@ -1,0 +1,9 @@
+D:\Projects\C#\Watermarker\Watermarker\bin\Release\Watermarker.exe.config
+D:\Projects\C#\Watermarker\Watermarker\bin\Release\Watermarker.exe
+D:\Projects\C#\Watermarker\Watermarker\bin\Release\Watermarker.pdb
+D:\Projects\C#\Watermarker\Watermarker\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\C#\Watermarker\Watermarker\obj\Release\Watermarker.Form1.resources
+D:\Projects\C#\Watermarker\Watermarker\obj\Release\Watermarker.Properties.Resources.resources
+D:\Projects\C#\Watermarker\Watermarker\obj\Release\Watermarker.csproj.GenerateResource.Cache
+D:\Projects\C#\Watermarker\Watermarker\obj\Release\Watermarker.exe
+D:\Projects\C#\Watermarker\Watermarker\obj\Release\Watermarker.pdb

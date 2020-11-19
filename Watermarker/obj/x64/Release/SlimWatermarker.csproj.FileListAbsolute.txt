@@ -1,0 +1,9 @@
+D:\Projects\C#\Watermarker\Watermarker\bin\x64\Release\SlimWatermarker.exe.config
+D:\Projects\C#\Watermarker\Watermarker\bin\x64\Release\SlimWatermarker.exe
+D:\Projects\C#\Watermarker\Watermarker\bin\x64\Release\SlimWatermarker.pdb
+D:\Projects\C#\Watermarker\Watermarker\obj\x64\Release\ResolveAssemblyReference.cache
+D:\Projects\C#\Watermarker\Watermarker\obj\x64\Release\Watermarker.Form1.resources
+D:\Projects\C#\Watermarker\Watermarker\obj\x64\Release\Watermarker.Properties.Resources.resources
+D:\Projects\C#\Watermarker\Watermarker\obj\x64\Release\SlimWatermarker.csproj.GenerateResource.Cache
+D:\Projects\C#\Watermarker\Watermarker\obj\x64\Release\SlimWatermarker.exe
+D:\Projects\C#\Watermarker\Watermarker\obj\x64\Release\SlimWatermarker.pdb
